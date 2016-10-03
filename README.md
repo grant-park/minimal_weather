@@ -1,7 +1,7 @@
 # Minimal_Weather  
 barebones weather, no puns, no pics  
 just what you need  
-![](ss.png "screenshot")
+![](screenshot.png "screenshot")
 
 ## Installation
 Replace key with your own [from Wunderground](https://www.wunderground.com/weather/api/) and specify state/city.  
